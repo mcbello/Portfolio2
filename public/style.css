@@ -1,0 +1,46 @@
+.img-circle {
+    border-radius: 50%;
+    max-width:40%;
+  max-height:40%;
+  text-align: center;
+}
+
+header {
+  font-family: 'Cardo', serif;
+  font-size: px100;
+  text-align: center;
+  position: relative;
+}
+
+p {
+  font-family: 'Cardo', serif;
+  font-size: p50
+}
+.container {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.image-circle {
+  position: absolute;
+  top: 0;
+  left: 0px;
+  z-index: 1;
+}
+.img-position {
+  position:absolute;
+  top:60%;
+}
+
+.image2 {
+  position:absolute;
+  top: 70px;
+  left: 100px;
+   z-index: 3;
+}
+.name {
+  text-align:center;
+}
+.number {
+  text-align:center;
+}
